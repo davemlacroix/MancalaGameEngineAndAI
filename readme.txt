@@ -6,5 +6,5 @@ If depth does not apply to the AI you are using then you can enter any number.
 To play a game against the computer try the following arguments:
 MancalaGameEngineAndAI.exe human myai 1 5
 
-To play a game against the computer try the following arguments and then open log.dat to see a summary of the results:
+To have to AIs play against each other try the following arguments and then open log.dat to see a summary of the results:
 MancalaGameEngineAndAI.exe random myai 1 5 100
